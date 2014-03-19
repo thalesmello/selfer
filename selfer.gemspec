@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Thales Mello"]
   spec.email         = ["thalesmello@gmail.com"]
   spec.summary       = %q{Import this module into your class.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.description   = %q{Include Selfer in your class in orde to use shorter notation for method calls}
   spec.homepage      = ""
   spec.license       = "MIT"
 
